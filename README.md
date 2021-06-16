@@ -6,4 +6,8 @@ Voetbal is een sport die is uitgevonden in 1863
 <br>Manchester United 3 titels</br>
 <br>Internazionale met 3 titels</br>
 <br>Fc Barcelona met 5 titels</br>
-<br>Liverpool met 6 t</br>
+<br>Liverpool met 6 titels</br>
+<br>Bayern München met 6 titels</br>
+<br> AC Milan met 7 titels</br>
+<br>Real Madrid met 13 titels</br>
+<br>ADO Den Haag met 15 titels</br>
